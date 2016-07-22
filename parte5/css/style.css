@@ -1,0 +1,41 @@
+div {
+	width: 100px;
+	height: 100px;
+	font-size: 30px;
+}
+
+#contenedor{
+	width:500px; 
+	height:500px;
+	background:white;
+	position: relative;
+    border: 1px solid black
+}
+
+.yellow{
+	background: yellow;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+
+.rojo{
+	background: #ee3e64;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+	
+.blue{
+	background: #44accf;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+.verde{
+	background: #b7d84b;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+
+}

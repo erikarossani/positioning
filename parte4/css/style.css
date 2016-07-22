@@ -1,0 +1,29 @@
+div {
+	width: 100px;
+	height: 100px;
+	font-size: 30px;
+}
+#contenedor{
+	width:500; 
+	height:500;
+	background:#000;
+	position: relative;
+
+}
+.rojo{
+	background: #ee3e64;
+}
+	
+.blue{
+	background: #44accf;
+	position: absolute;
+	top:0px;
+	left: 100px;
+	right:
+	bottom:;
+}
+
+.verde{
+	background: #b7d84b;
+
+}

@@ -1,0 +1,30 @@
+.body{
+      margin: 0;
+      padding: 0;
+}
+
+div{
+	position: relative;
+	left:100px;
+}
+
+.rojo{
+	width: 100px;
+	height: 100px;
+	font-size: 30px;
+	background: #ee3e64;
+
+}
+	
+.blue{
+	width: 100px;
+	height: 100px;
+	font-size: 30px;
+	background: #44accf;
+}
+.verde{
+	width: 100px;
+	height: 100px;
+	font-size: 30px;
+	background: #b7d84b;
+}
